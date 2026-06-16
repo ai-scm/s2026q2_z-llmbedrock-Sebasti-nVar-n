@@ -1,5 +1,4 @@
 # 🚀 Asistente Inteligente AWS Cloud Practitioner 
-# Proyecto: Semillero All Star - Blend360
 
 # Este repositorio contiene la implementación de un agente conversacional especializado en el temario de la certificación AWS Certified Cloud Practitioner, desarrollado como parte del programa de formación técnica del Semillero.
 
